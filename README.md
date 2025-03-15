@@ -1,4 +1,4 @@
-I am a Computer Engineering student at Rensselaer Polytechnic Institute, with interests in computer hardware design, robotics, and space.
+I am a Computer Engineering student at Rensselaer Polytechnic Institute with interests in computer hardware design, robotics, and space.
 
 # Highlighted Projects
 
