@@ -2,13 +2,12 @@ I am a Computer Engineering student at Rensselaer Polytechnic Institute with int
 
 # Highlighted Projects
 
-## 1. Cache Profiling 
-- **Objective:** Explore the impact of cache hierarchy and memory systems on performance by measuring latency, bandwidth, and cache misses across various levels.
+## 1. Embedded Neural Network
+- **Objective:** Use System Verilog to create CNN hardware.
 - **Highlights:**
-  - Investigated cache structures using tools like `hwloc` and CPU-Z.
-  - Measured read/write latencies for L1, L2, L3 caches, and main memory.
-  - Assessed memory bandwidth for different data sizes to identify optimal access patterns.
-  - Analyzed the effect of multithreading on cache performance, highlighting throughput and latency trade-offs.
+  - Utilized Synopsis Design Compiler, Vivado, and OpenROAD for PPA metrics.
+  - Analyzed changes to structures such MAC and pipeline to maximize PPA.
+  - Trained CNN to detect specific images.
 
 ## 2. Matrix Multiplication
 - **Objective:** Optimize matrix multiplication algorithms for performance improvements.
